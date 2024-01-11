@@ -13,3 +13,16 @@ In this section, we will focus on learning the basics of Unreal Engine, such as 
 * Click on the Launch button.
 
 ![Epic Games Launcher](screenshots/EpicGamesLauncher.png)
+
+## Creating a project
+
+* Click on the games tab.
+* Click on the template you want to use, we will be using the ***`Third Person`*** template.
+* Choose a project location by clicking on folder icon.
+* Give your project a name, we will use ***`IntroProject`*** as the project name.
+* Press on the create project button.
+
+> [!TIP]
+> The buttons and tabs that are mentioned above will be placed in a yellow box in the screenshots.
+
+![UnrealEngine](screenshots/UnrealEngine.png)
