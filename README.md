@@ -4,7 +4,7 @@ Unreal Engine is an engine used for several purposes, but mainly we will use it 
 
 In this section, we will focus on learning the basics of Unreal Engine, such as the interface, how to create a project, and how to use the basic tools.
 
-## Create a new project
+## Launching Unreal Engine
 
 * Open the Epic Games Launcher.
 * Click on the Unreal Engine tab.
