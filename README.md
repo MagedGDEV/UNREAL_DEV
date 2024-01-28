@@ -1,6 +1,6 @@
 # Introduction to Unreal Engine
 
-Unreal Engine is an engine used for several purposes, but mainly we will use it for game development. It is a very powerful engine that allows us to create games for several platforms, such as Windows, Linux, Mac, Android, iOS, Xbox, PlayStation, Nintendo Switch, and more.
+Unreal Engine is an engine used for several purposes, but mainly we will use it for game development. It is a very powerful engine that allows us to create games for several platforms, such as Windows, Linux, Mac, and more.
 
 In this section, we will focus on learning the basics of Unreal Engine, such as the interface, how to create a project, and how to use the basic tools.
 
@@ -27,7 +27,7 @@ In this section, we will focus on learning the basics of Unreal Engine, such as 
 
 ![UnrealEngine](screenshots/UnrealEngine.png)
 
-After creating the project, you will be greeted with the Unreal Engine interface, and since we are using the ***`Third Person`*** template, we will be offered with some assets to use in our project to start with.
+After creating the project, you will be greeted with the Unreal Engine interface, the view port and since we are using the ***`Third Person`*** template, we will be offered with some assets to use in our project to start with.
 
 ![UnrealEngineInterface](screenshots/UnrealEngineInterface.png)
 
@@ -49,3 +49,16 @@ To move around the editor scene, we have different options:
   * This option is called **orbiting**, it won't allow you to move the camera up or down.
 
 ![Orbiting](screenshots/Orbiting.gif)
+
+* Hold the **right mouse** button and move the mouse to look around the scene, this will allow you to move the camera up and down, while holding the **right mouse** button, you can move around the scene by pressing on the **QWEASD** keys on the keyboard.
+  * **Q** and **E** will move the camera up and down.
+  * **W** and **S** will move the camera forward and backward.
+  * **A** and **D** will move the camera left and right.
+
+![LookingAround](screenshots/LookingAround.gif)
+
+You can change the place of certain taps in the interface by dragging them around, for example, if you want to move the **World Outliner** tab to the bottom side of the screen, you can drag it from the top of the tab and drop it on the bottom side of the screen, and you can close a tab by clicking on the **x** button on the top right corner of the tab.
+
+If you ever closed a tab by mistake, you can open it again by clicking on the **Window** tab in the top menu bar, then click on the tab you want to open, and you can also reset the layout of the interface by clicking on the **Window** tab in the top menu bar, then click on the **Load Layout** button, and choose the layout you want to use.
+
+![Tabs](screenshots/Tabs.gif)
