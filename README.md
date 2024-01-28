@@ -91,3 +91,6 @@ You edit the position, rotation, and scale of an actor by changing the values in
 Now we can create a platformer game to escape the box the player is trapped inside.
 
 ![Platformer](screenshots/Platformer.gif)
+
+>[!NOTE]
+> You duplicate an actor and move it immediately from the original actor by pressing on the **Alt** key on the keyboard and dragging the actor.
