@@ -62,3 +62,28 @@ You can change the place of certain taps in the interface by dragging them aroun
 If you ever closed a tab by mistake, you can open it again by clicking on the **Window** tab in the top menu bar, then click on the tab you want to open, and you can also reset the layout of the interface by clicking on the **Window** tab in the top menu bar, then click on the **Load Layout** button, and choose the layout you want to use.
 
 ![Tabs](screenshots/Tabs.gif)
+
+## Making a platformer
+
+The view port shows us the scene we are working on, and each object in the scene is called an **actor**, and each actor has a **transform** that defines its location, rotation, and scale, by clicking on an object in the scene, we can see the following:
+
+* The properties of the object in the **Details** tab.
+* Arrow handles that allow us to move the object in the scene.
+
+The **Outliner** tab is the textural representation of the scene, it shows us all the actors in the scene, and we can select an actor by clicking on it in the **Outliner** tab, and the **View Port** tab is the visual representation of the scene.
+
+You can add a new actor to the scene by doing the following (we are going to add a cube to the scene):
+
+* Click on the **Quickly Add to the Project** button in the top menu bar.
+* Hover over the **Shapes** button.
+* Click on the **Cube** button.
+* The cube will be added to the scene and the **Outliner** tab, and the properties of the cube will be shown in the **Details** tab.
+
+![AddActor](screenshots/AddActor.png)
+
+You edit the position, rotation, and scale of an actor by changing the values in the **Details** tab, or by dragging the arrow handles in the **View Port** tab.
+
+> [!TIP]
+> To get the arrow handles for an actor press on it and press on the **W** key on the keyboard, to move the actor, press on the **E** key on the keyboard to rotate the actor, and press on the **R** key on the keyboard to scale the actor or you can click on the **Translate**, **Rotate**, or **Scale** buttons in the top menu bar.
+
+![Transform](screenshots/Transform.gif)
