@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/magedalosali/Developer/UNREAL_Projects/UNREAL_DEV/IntroProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"/Users/magedalosali/Developer/UNREAL_Projects/UNREAL_DEV/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZL/B9I20PBG8155GS1Y24CVXD.uasset",
+				"/Users/magedalosali/Developer/UNREAL_Projects/UNREAL_DEV/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/U2/J6J1JGQ5K28V0R45PJ0XRR.uasset"
+			]
+		}
+	]
+}

@@ -87,3 +87,7 @@ You edit the position, rotation, and scale of an actor by changing the values in
 > To get the arrow handles for an actor press on it and press on the **W** key on the keyboard, to move the actor, press on the **E** key on the keyboard to rotate the actor, and press on the **R** key on the keyboard to scale the actor or you can click on the **Translate**, **Rotate**, or **Scale** buttons in the top menu bar.
 
 ![Transform](screenshots/Transform.gif)
+
+Now we can create a platformer game to escape the box the player is trapped inside.
+
+![Platformer](screenshots/Platformer.gif)
