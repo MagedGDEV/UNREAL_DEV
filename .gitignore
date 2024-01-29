@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 *.DS_Store
+
+# Autosaved files for unreal project
+WarehouseWreckage/Saved/*
