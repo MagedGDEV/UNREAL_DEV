@@ -11,3 +11,4 @@ To open up the Blueprint Editor, press on the button on the top menu bar that ha
 
 ![Open Level Blueprint](screenshots/open_level_blueprint.png)
 
+This will open up the **Event Graph** of the level, which is the place where you can add your own logic to the level.
